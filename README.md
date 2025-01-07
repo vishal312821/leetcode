@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishal312821/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/vishal312821/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vishal312821/leetcode/tree/master/0049-group-anagrams) |
+| [0204-count-primes](https://github.com/vishal312821/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/vishal312821/leetcode/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/vishal312821/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vishal312821/leetcode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/vishal312821/leetcode/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vishal312821/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishal312821/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vishal312821/leetcode/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishal312821/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishal312821/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
